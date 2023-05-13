@@ -1,0 +1,1523 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"  class="no-js" lang="en"> 
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=100" />
+	<title>Compare Today's Current Mortgage Interest Rates | Wells Fargo</title>
+	
+	
+	
+	
+	
+        
+
+ 
+			
+		<meta name="description" content="View daily mortgage and refinance interest rates for a variety of mortgage products, and learn how we can help you reach your home financing goals."/>
+		
+	
+		<meta name="keywords" content="mortgage rates, current mortgage rates, mortgage interest rates, mortgage rates today, mortgage rate today, 30 year mortgage rates, 15 year mortgage rates, refinance rates, today’s mortgage rates, current interest rates, home mortgage rates, interest rates today, home loan rates, home interest rates,"/>
+	
+	
+		<meta name="robots" content="index, follow"/>
+	
+	
+		
+			<link rel="canonical" href="https://www.wellsfargo.com/mortgage/rates/" />
+		
+		
+	
+        
+        
+	
+
+	<link rel="stylesheet" href="/css/template/global.css" />
+    <link rel="stylesheet" href="/css/vendor/video-js.css" />
+	<link rel="stylesheet" href="/css/template/ui-lightness/jquery-ui.custom.css">
+	<link rel="stylesheet" href="/css/template/print.css" media="print" />	
+
+	
+		<link rel="stylesheet" href="/css/tools/feedback/feedback.css">
+	
+
+	
+		
+		
+			
+				<link rel="icon" href="https://www01.wellsfargomedia.com/favicon.ico"/>
+				<link rel="apple-touch-icon" sizes="120x120" href="/assets/images/icons/apple-touch-icon-120x120.png"/>
+				<link rel="apple-touch-icon" sizes="180x180" href="/assets/images/icons/apple-touch-icon-180x180.png"/>
+				<link rel="icon" sizes="128x128" href="/assets/images/icons/icon-normal-128x128.png"/>
+				<link rel="icon" sizes="192x192" href="/assets/images/icons/icon-hires-192x192.png"/>
+				<link rel="icon" type="image/png" href="/assets/images/icons/favicon-16x16.png">
+			
+		
+	
+	
+	<script src="/js/vendor/video.js" nonce="1640464a-4bc2-4f57-8298-b629916df07b"></script>
+<script src="/js/shared/media-player-custom.js" nonce="1640464a-4bc2-4f57-8298-b629916df07b"></script>
+	
+	
+		
+	
+		
+	
+	<script nonce="1640464a-4bc2-4f57-8298-b629916df07b">
+    	// if this line executes, then javascript is turned on and we'll therefore remove the no-js class from the HTML tag
+    	document.documentElement.className = document.documentElement.className.replace(/(^|\s)no-js(\s|$)/, '$1$2');
+  	</script>
+    
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+   	
+   	
+   		
+   			<script type="text/javascript" nonce="1640464a-4bc2-4f57-8298-b629916df07b"> var utag_data = { app_id:'WWW',mpuid:'11202008091419571586303821',unique_id:'20200809021957',page_type:'BROWSER',tealium_js_path:'https://static.wellsfargo.com/tracking/main/utag.js',device_type:'',mt_tag_path:'https://static.wellsfargo.com/mttag/',customer_type:'',zip_code:'',environment:'PRODUCTION',lang_pref:'EN'} </script> <script src="https://static.wellsfargo.com/tracking/main/utag.sync.js" nonce="1640464a-4bc2-4f57-8298-b629916df07b"></script>
+
+   		
+   		
+   	
+
+	
+</head>
+
+ 
+        
+ 
+<body>
+
+
+
+
+
+
+
+<div id="shell" class="t8" data-pid="222-26732-64" data-ptid="91-6232-128" data-lightbox-print="false">
+
+
+
+
+
+<a href="#skip" class="hidden">Skip to content</a>
+    
+                                 
+          
+                    
+
+
+
+
+
+
+<header role="banner">
+   	<div id="masthead" class="html5header c1 nxg">	
+        <div class="wfLogoStripParent">
+              <div class="wfLogoStripChild">
+		    <div id="brand">
+                
+		<a href="/">
+			<img alt="Wells Fargo Home Page" role="img" src="https://www01.wellsfargomedia.com/assets/images/css/template/homepage/homepage-horz-logo.svg" />
+		</a>
+	
+            </div>
+	    <div id="topSearch">
+				
+				
+				
+					<ul>		
+				
+				
+					<li role="presentation">
+		<a href="https://connect.secure.wellsfargo.com/auth/login/present?origin=cob&amp;LOB=CONS" class="signIn">
+			<img alt="Secure" src="https://www01.wellsfargomedia.com/assets/images/css/template/homepage/homepage-lock.svg" />
+			Sign On
+		</a>
+	</li>
+				
+				
+					<li role="presentation">
+        <a href="/help/">Customer Service</a>
+      </li>
+				
+					<li role="presentation">
+        <a href="/locator/">ATMs/Locations</a>
+      </li>
+				
+					<li role="presentation">
+		<a href="/spanish/" id="langPrefToggle" class="spTogglePersonal" xml:lang="es" name="langPrefToggle" lang="es">Español</a>
+	</li>
+					
+			</ul>
+			
+			    				
+				
+				     <div id="nxgSearch">
+						<button id="nxgSearchButton">
+							<span class="nxgSearchText">Search</span>&nbsp;
+							<span class="nxgVisuallyHidden" id="nxgSearchDescription">Opens a dialog.</span>
+							<span class="nxgSearchIcon"></span>
+						</button>
+                     </div>
+				
+			
+		</div>
+        </div>
+     </div>
+	  
+			<div id="mainNav">
+				<nav aria-label="account type"> 
+					
+							  
+									<div class="html5nav" id="tabNav" >
+										<ul>
+											
+											   
+        
+						<li class="active">
+				<a id="tabNavPersonal" tabindex="-1" role="presentation" class="tabNavLink" href="/" name="tabNavPersonal">
+					<span class="hidden">selected</span>
+					Personal
+				</a>
+			</li>
+					
+      
+											
+											   
+		
+<li>
+				<a href="/biz/" class="tabNavLink" id="tabNavSmallBusiness" name="tabNavSmallBusiness" title="Small Business. Serving businesses with up to $5 million in annual revenue.">Small Business</a>
+			</li>
+
+	
+											
+											   
+        
+          <li>
+            <a href="/com/" class="tabNavLink" id="tabNavCommercial" name="tabNavCommercial">Commercial</a>
+          </li>
+        
+      
+											
+										</ul>
+									</div>
+								
+					
+				    
+					<div id="headerTools">
+						<nav role="presentation">
+							<ul>						
+								
+									<li>
+        <a href="/financial-education/">Financial Education</a>
+      </li>
+								
+									<li>
+        <a href="/about/">About Wells Fargo</a>
+      </li>
+								
+						   </ul>
+						</nav>
+					</div>
+				   
+			    </nav>
+			</div>
+
+    </div>
+</header>
+          
+                                 
+          
+                    		
+		
+		
+
+		
+		<nav id="fatNavParent" aria-label="products and services">
+<ul id="fatnav">
+<li>
+					<a id="bankingTab" class="navLevel1" href="#banking" aria-expanded="false" data-navitem="banking">Banking and Credit Cards</a>
+				</li>
+<li>
+					<a id="loansTab" class="navLevel1" href="#loans" aria-expanded="false" data-navitem="loans">Loans and Credit</a>
+				</li>
+<li>
+					<a id="investingTab" class="navLevel1" href="#investing" aria-expanded="false" data-navitem="investing">Investing and Retirement</a>
+				</li>
+<li>
+					<a id="wealthTab" class="navLevel1" href="#wealth" aria-expanded="false" data-navitem="wealth">Wealth Management</a>
+				</li>
+<li>
+					<a id="rewardsTab" class="navLevel1" href="#rewards" aria-expanded="false" data-navitem="rewards">Rewards and Benefits</a>
+				</li>
+</ul>
+</nav>
+		
+		
+
+		
+		
+		
+		
+
+		
+		<noscript>
+<div id="msgnojs">
+<p>We're sorry, but some features of our site require JavaScript. Please enable JavaScript on your browser and refresh the page. <a class="c13" href="/help/online-banking/troubleshoot-faqs/">Learn More</a></p>
+</div>
+<img src="https://www.wellsfargo.com/assets/images/global/s.gif?Log=1&amp;jsoff=true" alt="" /></noscript>
+	          
+                                 
+          
+                    		
+		
+		
+
+		
+		<div id="banking" class="navItem hide" role="region" aria-labelledby="bankingTab">
+<h2 class="hide">Banking</h2>
+<div class="navItemLeft">
+<div>
+<div class="fatNavTitle">
+<h2>Accounts and Services</h2>
+</div>
+<ul>
+<li>
+							<a href="/checking/?linkLoc=fn">Checking Accounts</a>
+						</li>
+<li>
+							<a href="/savings-cds/?linkLoc=fn">Savings Accounts and CDs</a>
+						</li>
+<li>
+							<a href="/debit-card/?linkLoc=fn">Debit and Prepaid Cards</a>
+						</li>
+<li>
+							<a href="/credit-cards/?linkLoc=fn">Credit Cards</a>
+						</li>
+<li>
+							<a href="/foreign-exchange/?linkLoc=fn">Foreign Exchange</a>
+						</li>
+<li>
+							<a href="/international-remittances/?linkLoc=fn">Global Remittance Services</a>
+						</li>
+</ul>
+</div>
+<div>
+<div class="fatNavTitle"> </div>
+<ul>
+<li>
+							<a href="/online-banking/?linkLoc=fn">Online Banking</a>
+						</li>
+<li>
+							<a href="/online-banking/transfer-pay/?linkLoc=fn">Transfer and Pay</a>
+						</li>
+<li>
+							<a href="/mobile/?linkLoc=fn">Mobile Features</a>
+						</li>
+<li>
+							<a href="/online-banking/manage-accounts/control-tower/?linkLoc=fn">Control Tower<sup>SM</sup></a>
+						</li>
+<li>
+							<a href="/atm/?linkLoc=fn">ATM Banking</a>
+						</li>
+</ul>
+</div>
+</div>
+<div>
+<div class="fatNavTitle">
+<h2>Your Financial Goals</h2>
+</div>
+<ul>
+<li>
+						<a href="/tax-center/?linkLoc=fn">Tax Center</a>
+					</li>
+<li>
+						<a href="/goals-banking-made-easy/index/?linkLoc=fn">Banking Made Easy</a>
+					</li>
+<li>
+						<a href="/goals-retirement/?linkLoc=fn">Planning for Retirement</a>
+					</li>
+<li>
+						<a href="/privacy-security/fraud/?linkLoc=fn">Security Center</a>
+					</li>
+</ul>
+</div>
+<div>
+<div class="fatNavTitle">
+<h2>Popular Links</h2>
+</div>
+<ul>
+<li>
+						<a href="/mortgage/rates/?linkLoc=fn">Mortgage Rates</a>
+					</li>
+<li>
+						<a href="/help/routing-number/?linkLoc=fn">Routing Number</a>
+					</li>
+<li>
+						<a href="/checking/overdraft-services/?linkLoc=fn">Overdraft Services</a>
+					</li>
+<li>
+						<a href="/financial-assistance/?linkLoc=fn">Get Help with Payment Challenges</a>
+					</li>
+<li>
+						<a href="/checking/compare-checking-accounts/?linkLoc=fn">Open a Checking Account</a>
+					</li>
+<li>
+						<a href="/help/apply/?linkLoc=fn">Apply for an Account or Service</a>
+					</li>
+</ul>
+</div>
+
+<br style="clear:both" /></div>
+		
+		
+
+		
+		<div id="loans" class="navItem hide" role="region" aria-labelledby="loansTab">
+<h2 class="hide">Loans and Credit</h2>
+<div class="navItemLeft">
+<div>
+<div class="fatNavTitle">
+<h2>Accounts and Services</h2>
+</div>
+<ul>
+<li>
+							<a href="/mortgage/?linkLoc=fn">Mortgage Loans</a>
+						</li>
+<li>
+							<a href="/equity/?linkLoc=fn">Home Equity Lines</a>
+						</li>
+<li>
+							<a href="/personal-credit/?linkLoc=fn">Personal Loans</a>
+						</li>
+</ul>
+</div>
+<div>
+<div class="fatNavTitle"> </div>
+<ul>
+<li>
+							<a href="/student/?linkLoc=fn">Student Loans</a>
+						</li>
+<li>
+							<a href="/auto-loans/?linkLoc=fn">Auto Loans</a>
+						</li>
+<li>
+							<a href="/credit-cards/?linkLoc=fn">Credit Cards</a>
+						</li>
+</ul>
+</div>
+</div>
+<div>
+<div class="fatNavTitle">
+<h2>Your Financial Goals</h2>
+</div>
+<ul>
+
+<li>
+						<a href="/goals-going-to-college/?linkLoc=fn">Going to College</a>
+					</li>
+<li>
+						<a href="/goals-credit/?linkLoc=fn">Borrowing and Credit</a>
+					</li>
+<li>
+						<a href="/privacy-security/fraud/?linkLoc=fn">Security Center</a>
+					</li>
+</ul>
+</div>
+<div>
+<div class="fatNavTitle">
+<h2>Popular Links</h2>
+</div>
+<ul>
+<li>
+						<a href="/mortgage/rates/?linkLoc=fn">Mortgage Rates</a>
+					</li>
+<li>
+						<a href="/mortgage/rates/calculator/?linkLoc=fn">Home Equity Rates</a>
+					</li>
+<li>
+						<a href="/financial-assistance/?linkLoc=fn">Get Help with Payment Challenges</a>
+					</li>
+<li>
+						<a href="https://icomplete.wellsfargo.com/oas/status/auth">Finish Application/Check Status</a>
+					</li>
+<li>
+						<a href="/student/rate-benefits/?linkLoc=fn">Student Loan Discounts</a>
+					</li>
+</ul>
+</div>
+
+<br style="clear:both" /></div>
+		
+		
+
+		
+		<div id="investing" class="navItem hide" role="region" aria-labelledby="investingTab">
+<h2 class="hide">Investing and Retirement</h2>
+<div class="navItemLeft">
+<div>
+<div class="fatNavTitle">
+<h2>Our Investing Services</h2>
+</div>
+<ul>
+<li>
+							<a href="/investing/?linkLoc=fn">Overview</a>
+						</li>
+<li>
+							<a href="/investing/wellstrade-online-brokerage/?linkLoc=fn">Self-Directed Investing</a>
+						</li>
+<li>
+							<a href="/investing/intuitive-investor-automated-investing/?linkLoc=fn">Automated Investing</a>
+						</li>
+<li>
+							<a href="/investing/wells-fargo-advisors/?linkLoc=fn">Dedicated Financial Advisor</a>
+						</li>
+<li>
+							<a href="/investing/compare-ways-to-invest/?linkLoc=fn">Compare Ways to Invest</a>
+						</li>
+</ul>
+</div>
+<div>
+<div class="fatNavTitle">
+<h2>Investing Solutions</h2>
+</div>
+<ul>
+<li>
+							<a href="/investing/retirement/ira/?linkLoc=fn">IRAs</a>
+						</li>
+<li>
+							<a href="/investing/mutual-funds/?linkLoc=fn">Invest in Mutual Funds</a>
+						</li>
+
+<li>
+							<a href="/investing/retirement/rollover/?linkLoc=fn">Rollovers (401k and IRA)</a>
+						</li>
+<li>
+							<a href="/investing/education/?linkLoc=fn">Investing for Education</a>
+						</li>
+</ul>
+</div>
+</div>
+<div>
+<div class="fatNavTitle">
+<h2>Your Financial Goals</h2>
+</div>
+<ul>
+<li>
+						<a href="/investment-institute/?linkLoc=fn">Strategy and Research</a>
+					</li>
+<li>
+						<a href="/goals-retirement/?linkLoc=fn">Planning for Retirement</a>
+					</li>
+<li>
+						<a href="/goals-retirement-income/?linkLoc=fn">Income in Retirement</a>
+					</li>
+<li>
+						<a href="/goals-investing/?linkLoc=fn">Investing Basics</a>
+					</li>
+</ul>
+</div>
+<div>
+<div class="fatNavTitle">
+<h2>Popular Links</h2>
+</div>
+<ul>
+<li>
+						<a href="/investing/guidance/consultation/?linkLoc=fn">Contact a Financial Advisor</a>
+					</li>
+<li>
+						<a href="/investing/retirement/ira/select/?linkLoc=fn">Open an IRA</a>
+					</li>
+<li>
+						<a href="/investing/wellstrade-online-brokerage/open/?linkLoc=fn">Open a WellsTrade<sup>®</sup> Account</a>
+					</li>
+<li>
+						<a href="https://www.wellsfargoadvisors.com/intuitive-investor/sign-on.htm?cid=WF1800032820&amp;excid=WF1800032820">Open an Intuitive Investor<sup>®</sup> Account</a>
+					</li>
+<li>
+						<a href="/investing/retirement/tools/my-retirement-plan/?linkLoc=fn">My Retirement Plan</a>
+					</li>
+<li>
+						<a href="https://connect.secure.wellsfargo.com/auth/login/present?origin=irt">Employer Plan 401(k) Sign On</a>
+					</li>
+</ul>
+</div>
+</div>
+		
+		
+
+		
+		<div id="wealth" class="navItem hide" role="region" aria-labelledby="wealthTab">
+<h2 class="hide">Wealth Management</h2>
+<div class="navItemLeft">
+<div>
+<div class="fatNavTitle">
+<h2>Wealth Services</h2>
+</div>
+<ul>
+<li>
+							<a href="/the-private-bank/?linkLoc=fn">The Private Bank</a>
+						</li>
+<li>
+							<a href="/investing/wells-fargo-advisors/?linkLoc=fn">Wells Fargo Advisors</a>
+						</li>
+<li>
+							<a href="/abbot-downing/?linkLoc=fn">Abbot Downing</a>
+						</li>
+<li>
+							<a href="/wealth-management-services/?linkLoc=fn">All Wealth Management Services</a>
+						</li>
+</ul>
+</div>
+<div>
+<div class="fatNavTitle">
+<h2>Wealth Solutions</h2>
+</div>
+<ul>
+<li>
+							<a href="/the-private-bank/solutions/wealth-planning/?linkLoc=fn">Wealth Planning</a>
+						</li>
+<li>
+							<a href="/the-private-bank/solutions/private-banking/?linkLoc=fn">Private Banking</a>
+						</li>
+<li>
+							<a href="/the-private-bank/solutions/investment-and-asset-management?linkLoc=fn">Investment and Asset Management</a>
+						</li>
+
+<li>
+							<a href="/the-private-bank/solutions/trust-services/?linkLoc=fn">Fiduciary and Trust Services</a>
+						</li>
+</ul>
+</div>
+</div>
+<div>
+<div class="fatNavTitle">
+<h2>Wealth Advice &amp; Guidance</h2>
+</div>
+<ul>
+<li>
+						<a href="/investment-institute/?linkLoc=fn">Strategy and Research</a>
+					</li>
+<li>
+						<a href="/the-private-bank/insights/?linkLoc=fn">Wealth Management Insights</a>
+					</li>
+<li>
+						<a href="https://privatebank.wf.com/conversations/">
+							<em>Conversations</em>
+							 Magazine
+						</a>
+					</li>
+</ul>
+</div>
+<div>
+<div class="fatNavTitle">
+<h2>Next Step</h2>
+</div>
+<ul>
+<li>
+						<a href="/the-private-bank/connect/?linkLoc=fn">Contact The Private Bank</a>
+					</li>
+<li>
+						<a href="/investing/guidance/consultation/?linkLoc=fn">Contact Wells Fargo Advisors</a>
+					</li>
+<li>
+						<a href="https://www.abbotdowning.com/contact_us/headquarters/">Contact Abbot Downing</a>
+					</li>
+</ul>
+</div>
+</div>
+		
+		
+
+		
+		<div id="rewards" class="navItem hide" role="region" aria-labelledby="rewardsTab">
+<h2 class="hide">Rewards and Benefits</h2>
+<div class="navItemLeft">
+<div>
+<div class="fatNavTitle">
+<h2>Go Far<sup>®</sup> Rewards</h2>
+</div>
+<ul>
+<li>
+							<a href="/go-far-rewards/?linkLoc=fn">Explore Rewards</a>
+						</li>
+<li>
+							<a href="/go-far-rewards/earn-rewards/?linkLoc=fn">Earn Rewards</a>
+						</li>
+<li>
+							<a href="/go-far-rewards/use-rewards/?linkLoc=fn">Use Rewards</a>
+						</li>
+<li>
+							<a href="/go-far-rewards/share-rewards/?linkLoc=fn">Share Rewards</a>
+						</li>
+</ul>
+</div>
+<div>
+<div class="fatNavTitle">
+<h2>Relationship Program</h2>
+</div>
+<ul>
+<li>
+							<a href="/customer-relationship-program/?linkLoc=fn">Customer Relationship Overview</a>
+						</li>
+</ul>
+</div>
+</div>
+<div>
+<div class="fatNavTitle">
+<h2>Your Financial Goals</h2>
+</div>
+<ul>
+<li>
+						<a href="/goals-banking-made-easy/?linkLoc=fn">Banking Made Easy</a>
+					</li>
+<li>
+						<a href="/goals-credit/?linkLoc=fn">Borrowing and Credit</a>
+					</li>
+<li>
+						<a href="/privacy-security/fraud/?linkLoc=fn">Security Center</a>
+					</li>
+</ul>
+</div>
+<div>
+<div class="fatNavTitle">
+<h2>Popular Links</h2>
+</div>
+<ul>
+<li>
+						<a href="https://connect.secure.wellsfargo.com/auth/login/rewards">Sign On to Go Far Rewards</a>
+					</li>
+<li>
+						<a href="/help/credit-cards/go-far-rewards-faqs/?linkLoc=fn">Go Far Rewards FAQs</a>
+					</li>
+<li>
+						<a href="/credit-cards/?linkLoc=fn">Credit Cards</a>
+					</li>
+</ul>
+</div>
+</div>
+		
+		
+
+		
+		
+	          
+                                 
+          
+                    <br />
+<div class="c29content" data-content-id="c29content00">
+<p>Navegó a una página que no está disponible en español en este momento. Seleccione el enlace si desea ver otro contenido en español.</p>
+<a href="/spanish/">Página principal</a></div>
+<div id="customc28" style="display:none;">
+<div id="customc28backdrop"> </div>
+<div class="c28mainContainer c28CustomContainer" role="dialog" aria-labelledby="c28topFocusCustom" xml:lang="es" lang="es"><span id="c28topFocusCustom" class="hidden">Comienzo de ventana emergente</span>
+<div class="c28topContainer"><a class="c28close" id="c28close" href="javascript:void(0)" style="display: inline;" name="c28close" xml:lang="en" lang="en"><img alt="Close" role="button" src="https://www01.wellsfargomedia.com/assets/images/global/btn-close-x.png" /></a></div>
+<h2>Esta página solo está disponible en inglés</h2>
+<p>Selecione Cancele para permanecer en esta página o Continúe para ver nuestra página principal en español.</p>
+<div class="balloonButtons balloonButtonsCustom"><a href="javascript:void(0)" id="balloon-cancel" class="customc28cancel balloon-cancel" name="balloon-cancel">Cancele</a> <a href="/es/" class="c7 utilitybtn" id="popupContinue" name="popupContinue">Continúe</a></div>
+<span id="c28bottomFocusCustom" class="hidden">Fin de ventana emergente</span></div>
+</div>          
+                                 
+          
+
+
+    
+    
+    <div class="c42">	
+    	 
+		<nav><div class="html5nav">
+                                                                        <ul class="c67" role="navigation"><li><a href="/">Personal</a></li><li><a href="/mortgage">Home Mortgage Loans</a></li><li class="last">Current Mortgage and Refinance Rates</li></ul>
+                                                                  </div></nav>
+        
+
+        
+        
+        
+			<div id="title">
+				
+				
+					<h1 class="c11" id="skip" tabindex="-1">Current Mortgage and Refinance Rates</h1>
+					<div class="headerLocation">
+					
+					</div>
+					
+				
+			</div>
+        
+        
+        
+        
+        
+        
+
+ 
+ 
+ 
+        
+
+ 
+			<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="#" class="printLink">
+			
+				
+				
+					Print
+				
+			
+			</a>			
+			<div class="c52 hide" aria-hidden="true" aria-label="popup"></div>
+		</div>
+        
+         
+ 
+
+  
+  </div> 
+    
+    <div id="contentTop">
+	
+
+
+        
+    </div>
+	
+	<div class="cols2"  id="mainColumns">
+		<div class="mainContentCol">
+        	<div id="contentBody">
+                
+                
+        			 <p>Use annual percentage rate <a href="/mortgage/learning/what-is-apr/">APR</a>, which includes fees and costs, to compare rates across lenders. Rates and APR below may include up to .50 in <a href="/mortgage/learning/what-is-apr/">discount points</a> as an upfront cost to borrowers and assume no cash out. Select product to see detail. Use our <a href="/mortgage/rates/compare-loans/">Compare Home Mortgage Loans Calculator</a> for rates customized to your specific home financing need.</p> 
+
+<div class="c65" data-cid="tcm:182-26734-16" data-ctid="tcm:223-6253-32">	
+    <ul class="tabs">
+       
+           <li role='presentation'>
+		   <a href="#purchaserates" aria-controls="purchaserates">
+		   
+			<p>Purchase Rates</p>
+		</a>
+		   </li>
+       
+           <li role='presentation'>
+		   <a href="#refinancerates" aria-controls="refinancerates">
+		   Refinance Rates</a>
+		   </li>
+       
+     </ul>
+
+	<div class="tabContent">
+			
+			  <div id="purchaserates" class="wf-panel" role="tabpanel" rel="tab-purchaserates" aria-labelledby "tab-purchaserates">			
+						  <p>
+
+
+<link rel="stylesheet" href="/css/rates/mortgage/rates.css" />
+
+	
+
+<table class="c69Table" summary="Current Purchase Rates" id="PurchaseRatesTable">
+	<caption class="hidden">Purchase Rates table</caption>
+	<thead>
+		<tr class='nestedBottom'>		
+			<th id="product" scope="col">Product</th>
+			<th id="intRate" scope="col"><a id="c29link1" class="c29link" aria-haspopup="true" data-content-id="844563016" href="#">Interest Rate</a></th>
+		    <th id="apr" scope="col"><a id="c29link1" class="c29link" aria-haspopup="true" data-content-id="844563116" href="#">APR</a></th>
+	    </tr>
+	</thead>
+	<tbody>
+		
+
+	
+	
+	
+		
+			
+			
+			
+			<tr id="PurchaseRatesProductHead">
+				<td colspan="3" id="confirmFHA" class='nested'>
+				<b><a id="Confirming" class="c29link" aria-haspopup="true" data-content-id="844563216" href="#">Conforming</a> <span style="font-weight:normal">and</span> <a id="FHALoans" class="c29link" aria-haspopup="true" data-content-id="849750316" href="#">Government Loans</a></b>
+				</td>
+			</tr>
+			
+			
+								
+			<tr>					
+			   
+			   <th id="productName" scope="row"><a href='/mortgage/rates/purchase-assumptions?prod=1'>30-Year Fixed Rate</a></th>			   
+			   <td>2.875%</td>			   
+			   <td>2.996%</td>
+			   
+			   
+			   			   			   
+			</tr>
+		
+		
+			
+			
+			
+								
+			<tr>					
+			   
+			   <th id="productName" scope="row"><a href='/mortgage/rates/purchase-assumptions?prod=2'>30-Year Fixed-Rate VA</a></th>			   
+			   <td>2.75%</td>			   
+			   <td>2.971%</td>
+			   
+			   
+			   			   			   
+			</tr>
+		
+		
+			
+			
+			
+								
+			<tr>					
+			   
+			   <th id="productName" scope="row"><a href='/mortgage/rates/purchase-assumptions?prod=3'>20-Year Fixed Rate</a></th>			   
+			   <td>3.0%</td>			   
+			   <td>3.159%</td>
+			   
+			   
+			   			   			   
+			</tr>
+		
+		
+			
+			
+			
+								
+			<tr>					
+			   
+			   <th id="productName" scope="row"><a href='/mortgage/rates/purchase-assumptions?prod=4'>15-Year Fixed Rate</a></th>			   
+			   <td>2.5%</td>			   
+			   <td>2.72%</td>
+			   
+			   
+			   			   			   
+			</tr>
+		
+		
+			
+			
+			
+								
+			<tr>					
+			   
+			   <th id="productName" scope="row"><a href='/mortgage/rates/purchase-assumptions?prod=5'>7/1 ARM</a></th>			   
+			   <td>2.625%</td>			   
+			   <td>2.823%</td>
+			   
+			   
+			   			   			   
+			</tr>
+		
+		
+			
+			
+			
+								
+			<tr>					
+			   
+			   <th id="productName" scope="row"><a href='/mortgage/rates/purchase-assumptions?prod=6'>5/1 ARM</a></th>			   
+			   <td>2.75%</td>			   
+			   <td>2.851%</td>
+			   
+			   
+			   			   			   
+			</tr>
+		
+		
+			
+			
+			
+			
+			
+			<tr id="PurchaseRatesProductHead">			
+                <td id="jumboLoan" colspan="3" class='nested'><b><a id="JumboLoansId" class="c29link" aria-haspopup="true" data-content-id="844563516" href="#">Jumbo Loans</a><span style="font-weight:normal">&#150; Amounts that exceed conforming loan limits</span></b>
+                </td>
+            </tr>				
+								
+			<tr>					
+			   
+			   
+			   
+			   <th id="productName" scope="row"><a href='/mortgage/rates/purchase-assumptions?prod=7'>30-Year Fixed-Rate Jumbo</a></th>			   
+			   <td>3.125%</td>			   
+			   <td>3.189%</td>
+			   			   			   
+			</tr>
+		
+		
+			
+			
+			
+								
+			<tr>					
+			   
+			   
+			   
+			   <th id="productName" scope="row"><a href='/mortgage/rates/purchase-assumptions?prod=8'>15-Year Fixed-Rate Jumbo</a></th>			   
+			   <td>2.875%</td>			   
+			   <td>2.972%</td>
+			   			   			   
+			</tr>
+		
+		
+			
+			
+			
+								
+			<tr>					
+			   
+			   
+			   
+			   <th id="productName" scope="row"><a href='/mortgage/rates/purchase-assumptions?prod=9'>7/1 ARM Jumbo</a></th>			   
+			   <td>2.5%</td>			   
+			   <td>2.698%</td>
+			   			   			   
+			</tr>
+		
+		
+			
+			
+			
+								
+			<tr>					
+			   
+			   
+			   
+			   <th id="productName" scope="row"><a href='/mortgage/rates/purchase-assumptions?prod=10'>10/1 ARM Jumbo</a></th>			   
+			   <td>2.75%</td>			   
+			   <td>2.793%</td>
+			   			   			   
+			</tr>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+					          						
+	</tbody>
+</table>
+ <div class="c11text align_left">Rates, terms, and fees as of 8/07/2020 10:15 AM Eastern Daylight Time and subject to change without notice.</div>
+</p>
+<p>Select a product to view important disclosures, payments, assumptions, and APR information. Please note we offer additional home loan options not displayed here.</p>
+<p><br /></p>
+<p><br /></p>
+<p><div class="c60 hatched">
+<div class="c60id">
+<p><img alt="" src="https://www01.wellsfargomedia.com/assets/images/icons/227x81/house-dollar-dteal_227x81.png" />
+<br /></p>
+<h2> Get Prequalified</h2>
+<p>Have us contact you to see how much you may be able to borrow.
+<br />
+<br /></p>
+<p><a href="/mortgage/apply/prequalification/?src=rates" class="c7 color2 type1" data-cid="tcm:182-201621-16" data-ctid="tcm:223-6249-32" data-presentation="1">Get Started</a></p>
+</div>
+
+<div class="c60id">
+<p><img alt="" src="https://www04.wellsfargomedia.com/assets/images/icons/227x81/chat-dteal_227x81.png" />
+<br /></p>
+<h2>Talk to a consultant</h2>
+<ul>
+<li>Call <span class="c12">1-877-937-9357</span></li>
+<li><a href="/mortgage/contact/?src=rates">Get a call back</a></li>
+<li><a href="/mortgage/locations/">Find a local consultant</a></li>
+</ul>
+</div>
+</div> </p>
+			 </div>
+			
+			  <div id="refinancerates" class="wf-panel" role="tabpanel" rel="tab-refinancerates" aria-labelledby "tab-refinancerates">			
+						  <p>
+
+	
+
+<table class="c69Table" summary="Current Refinance Rates" id="RefinanceRatesTable">
+	<caption class="hidden">Refinance Rates table</caption>
+	<thead>
+		<tr class='nestedBottom'>
+			<th id="product" scope="col">Product</th>
+			<th id="intRate" scope="col"><a id="c29link1" class="c29link" aria-haspopup="true" data-content-id="844563016" href="#">Interest Rate</a></th>
+		    <th id="apr" scope="col"><a id="c29link1" class="c29link" aria-haspopup="true" data-content-id="844563116" href="#">APR</a></th>
+	    </tr>
+	</thead>
+	<tbody>
+		
+
+	
+	
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+			
+			
+			
+			<tr id="RefinanceRatesProductHead">
+				<td colspan="3" id="confirmFHA" class='nested'>
+				<b><a id="Confirming" class="c29link" aria-haspopup="true" data-content-id="844563216" href="#">Conforming</a> <span style="font-weight:normal">and</span> <a id="FHALoans" class="c29link" aria-haspopup="true" data-content-id="849750316" href="#">Government Loans</a></b>
+				</td>
+			</tr>
+			
+			
+								
+			<tr>					
+			   
+			   <th id="productName" scope="row"><a href='/mortgage/rates/refinance-assumptions?prod=11'>30-Year Fixed Rate</a></th>			   
+			   <td>3.25%</td>			   
+			   <td>3.344%</td>
+			   
+			   
+			   			   			   
+			</tr>
+		
+		
+			
+			
+			
+								
+			<tr>					
+			   
+			   <th id="productName" scope="row"><a href='/mortgage/rates/refinance-assumptions?prod=12'>20-Year Fixed Rate</a></th>			   
+			   <td>3.25%</td>			   
+			   <td>3.396%</td>
+			   
+			   
+			   			   			   
+			</tr>
+		
+		
+			
+			
+			
+								
+			<tr>					
+			   
+			   <th id="productName" scope="row"><a href='/mortgage/rates/refinance-assumptions?prod=13'>15-Year Fixed Rate</a></th>			   
+			   <td>3.0%</td>			   
+			   <td>3.187%</td>
+			   
+			   
+			   			   			   
+			</tr>
+		
+		
+			
+			
+			
+								
+			<tr>					
+			   
+			   <th id="productName" scope="row"><a href='/mortgage/rates/refinance-assumptions?prod=14'>7/1 ARM</a></th>			   
+			   <td>2.625%</td>			   
+			   <td>2.832%</td>
+			   
+			   
+			   			   			   
+			</tr>
+		
+		
+			
+			
+			
+								
+			<tr>					
+			   
+			   <th id="productName" scope="row"><a href='/mortgage/rates/refinance-assumptions?prod=15'>5/1 ARM</a></th>			   
+			   <td>2.875%</td>			   
+			   <td>2.885%</td>
+			   
+			   
+			   			   			   
+			</tr>
+		
+					          						
+	</tbody>
+</table>
+<div class="c11text align_left">Rates, terms, and fees as of 8/07/2020 10:15 AM Eastern Daylight Time and subject to change without notice.</div>
+
+
+</p>
+<p>Select a product to view important disclosures, payments, assumptions, and APR information. Please note we offer additional home loan options not displayed here.</p>
+<p><br /></p>
+<p><br /></p>
+<p><div class="c60 hatched">
+<div class="c60id">
+<p><img alt="" src="https://www01.wellsfargomedia.com/assets/images/icons/227x81/house-dollar-dteal_227x81.png" />
+<br /></p>
+<h2> Explore your options</h2>
+<p>Have us contact you to discuss your refinancing goals.
+<br />
+<br /></p>
+<p><a href="/mortgage/apply/refinance-analysis/?src=rates" class="c7" data-cid="tcm:182-201622-16" data-ctid="tcm:223-6249-32" data-presentation="1">Get started</a></p>
+</div>
+
+<div class="c60id">
+<p><img alt="" src="https://www04.wellsfargomedia.com/assets/images/icons/227x81/chat-dteal_227x81.png" />
+<br /></p>
+<h2>Talk to a consultant</h2>
+<ul>
+<li>Call <span class="c12">1-877-937-9357</span></li>
+<li><a href="/mortgage/contact/?src=rates">Get a call back</a></li>
+<li><a href="/mortgage/locations/">Find a local consultant</a></li>
+</ul>
+</div>
+</div>  
+<br /></p>
+<p></p>
+			 </div>
+			
+	</div>
+</div>
+
+                
+			</div>
+			
+            <div id="contentBottom">
+                
+					<div class="c54" data-cid="tcm:84-7805-16" data-ctid="tcm:91-6216-32"></div><div><div class="iaRendered" data-slot-id="WF_CON_MTR_SECONDARY_BNR_LARGE" lang="en" data-offer-id="C_mtg_purchaseprequal_mtrsec_web"><div class="c57 mediaWrapper">
+          
+        <div class="c57body">
+              <h2 class="secondarySubHeader">Buying a house?</h2>
+              <p>Estimate how much you may be able to borrow</p>
+              <a class="c13" href="/mortgage/apply/prequalification/?dm=DMIWEPURGD" data-tracking-id="">Get Prequalified</a>
+               
+          </div>
+            <div class="c57media">
+              <img alt="" src="https://www20.wellsfargomedia.com/assets/images/contextual/banner/mortgage-rates/227x140/wfi000_ph_a-mv-0726-12254-v2_227x140.jpg" />              
+            </div>
+
+
+</div></div></div>
+
+            	
+                
+					<div class="c20" role="complementary"><div class="c20equal">Equal Housing Lender</div><div class="c20body" data-numbered="false" data-cid="tcm:84-39242-16" data-ctid="tcm:91-1924-32">
+Wells Fargo Home Mortgage is a division of Wells Fargo Bank, N.A.
+</div><div class="c20body" data-numbered="false" data-cid="tcm:84-175060-16" data-ctid="tcm:91-1924-32">
+<p>LRC-0719
+</p>
+</div></div>
+                
+			</div>       
+        </div>
+		
+		<aside><div class="html5aside">
+			<div class="secondaryCol">
+				
+					<div id="serviceModule" class="c8"><div class="c8subsection" data-cid="tcm:84-26766-16" data-ctid="tcm:91-1889-32">
+     <h2>Want to learn more?</h2>
+    
+		<p>Find out more about your home loan options.</p>
+		
+
+		<p>
+			<a class="c13" data-cid="tcm:84-26766-16" data-ctid="tcm:91-1889-32" data-presentation="3" href="/mortgage/contact/?src=rates">Contact us</a>
+		</p>
+	
+</div><div class="c8subsection" data-cid="tcm:84-38287-16" data-ctid="tcm:91-1889-32">
+     <h2>Rate and payment calculator</h2>
+    <p>Get customized mortgage or home equity rates and payments.</p>
+<p><a href="/mortgage/rates/calculator/" class="c13" data-cid="tcm:84-38287-16" data-ctid="tcm:91-1889-32" data-presentation="3">Get started</a></p>
+</div>
+
+<div class="c8subsection" data-cid="tcm:84-36832-16" data-ctid="tcm:91-1889-32">
+     <h2>Compare Home Mortgage Loans Calculator</h2>
+    <p>Compare options for your specific needs.</p>
+<p><a href="/mortgage/rates/compare-loans/" title="Get started comparing loan options" class="c13" data-cid="tcm:84-36832-16" data-ctid="tcm:91-1889-32" data-presentation="3">Get started</a></p>
+</div>
+
+</div><div class="c68" data-cid="tcm:84-35858-16" data-ctid="tcm:91-6222-32">
+    <h2>Still have questions?</h2>
+    
+     
+     <div class="c16">
+
+
+            <h3 class="c16header callUs">Call Us</h3>
+
+
+
+
+
+            <div class="c16content">
+                
+                
+                       
+                             <div class="c68item">
+                                   <p><strong>Mortgage financing</strong>  </p>
+<p><span class="c12">1-877-937-9357</span>  </p>
+<p>Mon – Fri: 10 am – 5 pm
+<br />
+Central Time</p>
+<p><strong>Mortgage customer service</strong></p>
+<p><strong><span class="c12">1-800-357-6675</span></strong> </p>
+<p>Mon – Fri: 6 am – 10 pm
+<br />
+Sat: 8 am – 2 pm
+<br />
+Central Time</p>
+                             </div>                            
+                        
+                
+                
+                
+                
+				 
+            </div>
+    </div>
+
+     
+     <div class="c16">
+
+
+
+            <h3 class="c16header findALocalConsultant">Find Local Consultant</h3>
+
+
+
+
+            <div class="c16content">
+                
+                
+                
+                
+                
+                       
+                             <div class="c68item">
+                                   <p>Meet with a local consultant or request a call.</p>
+<p><a class="c13" data-cid="tcm:84-35858-16" data-ctid="tcm:91-6222-32" data-presentation="3" href="/mortgage/locations/?e=1">Search now</a></p>
+                             </div>
+                      
+                
+				 
+            </div>
+    </div>
+
+</div><div id="feedback" data-cid="tcm:84-6876-16" data-ctid="tcm:91-6227-32"><div id="feedbackForm" role="form"><fieldset id="feedbackIntro"><legend><strong>Was this content helpful?</strong></legend><button id="feedbackYes" data-value="yes" title="Yes" class="feedbackHelpful"></button><button id="feedbackNo" data-value="no" title="No" class="feedbackHelpful"></button></fieldset><div id="feedbackExpanded" aria-hidden="true" role="region"><label for="feedbackExp">How was your experience with this page?</label><select id="feedbackExp" name="feedbackExp"><option>Select one</option><option>It answered all of my questions.</option><option>It answered some of my questions.</option><option>It didn't answer any of my questions.</option><option>I experienced technical issues.</option></select><label for="feedbackComments">Share your comments about this page:</label><span class="hide">Please do not enter any personal or account information in this box. We cannot address customer service questions here.</span><textarea id="feedbackComments" name="feedbackComments" cols="27" rows="10">
+Please do not enter any personal or account information in this box. We cannot address customer service questions here.
+</textarea><button class="cta utilitybtn" type="button" id="feedbackSubmit">Submit</button><a href="#" class="feedbackClose" role="button">Close</a></div></div><div id="feedbackThanks" aria-hidden="true" role="region"><h2>Thank You</h2><p>We appreciate your feedback.</p><p>We are unable to contact you about your comments. For specific account-related questions or comments, please visit <a href="/help/">Customer Service</a>.</p><a href="#" class="feedbackClose thanks" role="button">Close</a></div></div>
+				
+			</div>
+		</div></aside>
+	</div> 
+	
+	
+		<tcdl:componentpresentation type="Embedded" componenturi="tcm:222-45631" templateuri="tcm:222-2806-32"> <div class="c29content" data-content-id="844563116"><h2>Annual Percentage Rate (APR)</h2>
+<p>The cost to borrow money expressed as a yearly percentage. For mortgage loans, excluding home equity lines of credit, it includes the interest rate plus other charges or fees. For home equity lines, the APR is just the interest rate.</p> </div> 
+</tcdl:componentpresentation><tcdl:componentpresentation type="Embedded" componenturi="tcm:222-45630" templateuri="tcm:222-2806-32"> <div class="c29content" data-content-id="844563016"><h2>Interest Rate</h2>
+<p>The cost a customer pays to a lender for borrowing funds over a period of time expressed as a percentage rate of the loan amount.</p> </div> 
+</tcdl:componentpresentation><tcdl:componentpresentation type="Embedded" componenturi="tcm:222-45632" templateuri="tcm:222-2806-32"> <div class="c29content" data-content-id="844563216"><h2>Conventional Conforming Mortgage</h2>
+<p>Conventional home mortgages eligible for sale and delivery to either the Federal National Mortgage Association (FNMA) or the Federal Home Loan Mortgage Corporation (FHLMC).</p> </div> 
+</tcdl:componentpresentation><tcdl:componentpresentation type="Embedded" componenturi="tcm:222-97503" templateuri="tcm:222-2806-32"> <div class="c29content" data-content-id="849750316"><h2>Government</h2>
+<p>A loan that is either backed by the Federal Housing Administration (FHA) or a VA loan for eligible service members and veterans.</p> </div> 
+</tcdl:componentpresentation><tcdl:componentpresentation type="Embedded" componenturi="tcm:222-69021" templateuri="tcm:222-2806-32"> <div class="c29content" data-content-id="846902116"><h2>Larger Loan Amounts in Eligible Areas</h2>
+<p>In federally designated metropolitan areas, conventional and government loan limits have been increased to assist homebuyers.</p> </div> 
+</tcdl:componentpresentation><tcdl:componentpresentation type="Embedded" componenturi="tcm:222-45635" templateuri="tcm:222-2806-32"> <div class="c29content" data-content-id="844563516"><h2>Jumbo</h2>
+<p>A loan that exceeds Fannie Mae's and Freddie Mac's loan limits. Also called a non-conforming loan.</p> </div> 
+</tcdl:componentpresentation>
+	
+		
+ 	
+   
+     
+  
+
+
+
+<footer role="contentinfo">
+	<div class="html5footer c9" id="pageFooter">
+          
+            
+                <div class="c9content">
+    
+    
+    <nav role="navigation">
+            	<div class="html5nav">
+					<ul class="navList">						
+                        
+                        <li>
+					<a data-cid="tcm:84-8253-16" data-ctid="tcm:91-1866-32"   href="/about/">About Wells Fargo</a>
+				</li>
+                        
+                        <li>
+		<a data-cid="tcm:84-8253-16" data-ctid="tcm:91-1866-32"   href="/about/careers/">Careers</a>
+	</li>
+                        
+                        <li>
+					<a data-cid="tcm:84-8253-16" data-ctid="tcm:91-1866-32"   href="/privacy-security/">Privacy, Cookies, Security &amp; Legal</a>
+				</li>
+                        
+                        <li>
+					<a data-cid="tcm:84-8253-16" data-ctid="tcm:91-1866-32"   href="/privacy-security/fraud/report/">Report Fraud</a>
+				</li>
+                        
+                        <li>
+					<a data-cid="tcm:84-8253-16" data-ctid="tcm:91-1866-32"   href="/sitemap">Sitemap</a>
+				</li>
+                        
+                        <li>
+					<a href="/">Home</a>
+				</li>
+                        
+                        <li>
+					<a data-cid="tcm:84-8253-16" data-ctid="tcm:91-1866-32"   href="/about/diversity/">Diversity &amp; Accessibility</a>
+				</li>
+                        
+                        <li>
+		<a href="/privacy-security/privacy/online#adchoices">Ad Choices
+</a>
+	</li>
+                                               
+					</ul>
+				</div>
+			</nav>
+    
+
+    
+		<p>© 1999 - 2020 Wells Fargo. All rights reserved. NMLSR ID 399801</p>
+	
+
+</div>            
+        
+
+        
+    </div>
+</footer>
+
+
+
+  
+</div>
+
+
+<img src="/assets/images/global/s.gif?log=1&cb=1597007997668&event=PageLoad&pid=222-26732-64&ptid=91-6232-128&pageUrl=https%3A%2F%2Fwww.wellsfargo.com%2Fmortgage%2Frates%2F&clist=182-163580-16~223-3757-32|182-26734-16~223-6253-32|182-26364-16~91-2049-32|182-201621-16~223-6249-32|182-26365-16~91-2049-32|182-201622-16~223-6249-32|84-7805-16~91-6216-32|242-33299-16~224-6268-32|~|84-5531-16~91-2045-32|84-39242-16~91-1924-32|84-175060-16~91-1924-32|84-26766-16~91-1889-32|84-38287-16~91-1889-32|84-36832-16~91-1889-32|84-35858-16~91-6222-32|84-32768-16~91-2049-32|84-6876-16~91-6227-32|84-45631-16~|84-45630-16~|84-45632-16~|84-97503-16~|84-69021-16~|84-45635-16~" alt=""/>
+
+
+ 
+	
+		
+	
+	
+
+
+<script type="text/javascript" nonce="1640464a-4bc2-4f57-8298-b629916df07b">
+	var tasInfo={"pageID":"/mortgage/rates/","Url":"/tas","App_ID":"WWW",
+				"deviceType":"Mobile"};	
+</script>
+<script src="/js/global/tas.js" nonce="1640464a-4bc2-4f57-8298-b629916df07b"></script>
+<script src="/js/vendor/jquery.min.js" nonce="1640464a-4bc2-4f57-8298-b629916df07b"></script>
+<script src="/js/frameworks/jq/jquery-ui.js" nonce="1640464a-4bc2-4f57-8298-b629916df07b"></script>
+<script src="/js/global/global.js" nonce="1640464a-4bc2-4f57-8298-b629916df07b"></script>
+
+	
+		<script src="/javascript/mortgage/rates/homelendingrates.js" nonce="1640464a-4bc2-4f57-8298-b629916df07b"></script>
+	
+
+	
+		<script src="/js/tools/feedback/feedback.js" nonce="1640464a-4bc2-4f57-8298-b629916df07b"></script>
+	
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+   	
+    
+        
+   		    <script type="text/javascript" nonce="1640464a-4bc2-4f57-8298-b629916df07b"> (function(a,b,c,d){a='https://static.wellsfargo.com/tracking/main/utag.js';b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;a=b.getElementsByTagName(c)[0];if (a.src !== d.src) { a.parentNode.insertBefore(d,a);}})();</script> 
+
+   	    
+   	    
+    
+
+
+
+</body></html>
