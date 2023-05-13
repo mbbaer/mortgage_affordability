@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CSI_Final_MikeBaer.iml" filepath="$PROJECT_DIR$/CSI_Final_MikeBaer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mortgage_affordability.iml" filepath="$PROJECT_DIR$/mortgage_affordability.iml" />
     </modules>
   </component>
 </project>
