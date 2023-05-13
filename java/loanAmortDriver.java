@@ -20,12 +20,12 @@ Assumptions:
 
 
 */
-package loanAmort; //add class loanAmortDriver to loanAmort package
+package loanAmort.java; //add class loanAmortDriver to loanAmort package
 
 public class loanAmortDriver{
 	//program user must place budget.txt in present working directory
 	//keep format the same for each new row "[item], amount"
-	public static java.io.File file = new java.io.File("budget.txt"); //create new File object to get budget data
+	public static java.io.File file = new java.io.File("./budget/budget.txt"); //create new File object to get budget data
 	public static int[] disp = new int[3]; //create array with 3 ints to store budget items
 	public static int[] loanParas = new int[2]; //create array with 2 ints to store loan parameters
 	public static Double[] mortRates = new Double[2]; //create array with 2 doubles to store 15yr & 30yr rates

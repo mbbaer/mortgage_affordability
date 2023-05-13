@@ -1,4 +1,4 @@
-package loanAmort;
+package loanAmort.java;
 
 import java.util.*;
 import java.io.*;
@@ -8,7 +8,7 @@ import java.awt.*;
 public class loanAmort extends loanAmortDriver {
 
 	public static void fileExists(java.io.File file) {
-		if(!file.exists()) { //if operator - if files does not exists
+		if(!file.exists()) { //if operator - if file does not exist
 			System.out.println("The file 'budget.txt' does not exist in the present working directory.\n" + //perform if file does not exist
 				"Please place the file in the directory.");
 			System.exit(1); //exit program if files does not exist
@@ -112,7 +112,7 @@ public class loanAmort extends loanAmortDriver {
 		try{ //try block
 			String URLString = "https://www.wellsfargo.com/mortgage/rates/"; //create URL variable  
 			//create a File object for a text file
-			java.io.File file2 = new java.io.File ("MortgageText_" + dateFormat.format(date) + ".txt"); 
+			java.io.File file2 = new java.io.File ("output_files" + File.separator + "MortgageText_" + dateFormat.format(date) + ".txt");
 			try { //try block
 				java.io.PrintWriter mortOutput = new java.io.PrintWriter(file2); //create a PrintWriter object as file2
 				java.net.URL url = new java.net.URL(URLString);  //create URL object as URL variable
@@ -141,7 +141,7 @@ public class loanAmort extends loanAmortDriver {
 		int i = 0; //int variable to use for loop
 		Double[] finalRates = new Double[2]; //create 2D array of 2 Doubles to store interest reates 
 		//program user must change file path to present working directory
-		Scanner sc2 = new Scanner(new FileInputStream("." + File.separator + "MortgageText_" //create FileInputStream object 
+		Scanner sc2 = new Scanner(new FileInputStream("output_files" + File.separator + "MortgageText_" //create FileInputStream object
 			+ dateFormat.format(date) + ".txt"));
 		while(sc2.hasNextLine()) { //while loop while sc2 has lines
 			String line = sc2.nextLine(); //store line content as line variable
@@ -206,7 +206,7 @@ public class loanAmort extends loanAmortDriver {
         monthlyPayment      = payment;
 
         try{ //try block
-        	amortization = new Formatter("AmortizationTable_" + dateFormat2.format(date2) + ".txt"); //create new Formatter object    
+        	amortization = new Formatter("amortization_table" + File.separator + "AmortizationTable_" + dateFormat2.format(date2) + ".txt"); //create new Formatter object
 	        amortization.format("Mortgage Amount:       $ %8.2f%n", principal); //print to amortization
 	        amortization.format("Mortgage Duration:  %8.2f%n", numYears);
 	        amortization.format("Interest Rate:     %8.2f%%%n", annualInterestRate);
@@ -245,7 +245,7 @@ public class loanAmort extends loanAmortDriver {
     	DateFormat dateFormat3 = new SimpleDateFormat("yyyyMMdd");
 		Date date3 = new Date();
 		//create new File object 
-    	java.io.File file3 = new java.io.File ("." + File.separator + "AmortizationTable_" + dateFormat3.format(date3) + ".txt"); 
+    	java.io.File file3 = new java.io.File ("amortization_table" + File.separator + "AmortizationTable_" + dateFormat3.format(date3) + ".txt");
     	try{ //try block
     		Desktop.getDesktop().open(file3); //open file to desktop
     	}catch (Exception e){
