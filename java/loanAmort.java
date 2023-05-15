@@ -32,11 +32,25 @@ public class loanAmort extends loanAmortDriver {
 			String[][] budgetItems = new String [(ctr/2)][2]; //create 2D array to store the items from file
 			int[] moneyItems = new int [ctr/2]; //create 1D array to only store the monetary items from file
 			for (int i = 0; i < (ctr/2); i++) { //for loop to loop through rows in file
-				for (int j = 0; j < 2; j++) {
-					budgetItems[i][j] = input2.next(); //store the items from the file into 2D array budgetItems
+				if (input2.hasNextLine()) {
+					String line = input2.nextLine();
+					String[] parts = line.split(", ", 2); //split the line into two parts
+					if (parts.length != 2) {
+						System.out.println("Invalid line in budget file: " + line);
+						System.exit(1);
+					}
+
+					budgetItems[i][0] = parts[0]; //store the first part as the budget item description
+					budgetItems[i][1] = parts[1]; //store the second part as the budget amount
+
+					try {
+						moneyItems[i] = Integer.parseInt(budgetItems[i][1]); //store only monetary items into array moneyItems
+						all += moneyItems[i]; //set all = sum of all money items
+					} catch (NumberFormatException e) {
+						System.out.println("Invalid number in budget file: " + budgetItems[i][1]);
+						System.exit(1);
+					}
 				}
-				moneyItems[i] = Integer.parseInt(budgetItems[i][1]); //store only monetary items into array moneyItems
-				all += moneyItems[i]; //set all = sum of all money items
 			}
 			financials[0] = income = moneyItems[0]; //set income to financials[0]
 			financials[1] = expenses = all - income; //set expenses to financials[1]
