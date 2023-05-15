@@ -68,9 +68,9 @@ public class loanAmort extends loanAmortDriver {
 		int[] loanTerms = new int[2]; //create 2D array of 2 ints to capture loan parameters
 		int mortPayment = 0;
 		int duration = 0;
-		System.out.println("Your income is: $" + disp[0]); //print income from budget array
-		System.out.println("Your expenses are: $" + disp[1]); //print expenses from budget array
-		System.out.println("Your disposable income is: $" + disp[2]); //print disposable income from budget array
+		System.out.println("Your monthly income is: $" + disp[0]); //print income from budget array
+		System.out.println("Your monthly expenses are: $" + disp[1]); //print expenses from budget array
+		System.out.println("Your monthly disposable income is: $" + disp[2]); //print disposable income from budget array
 		try { //try block
 	        do { //do while loop to capture monthly payment value
 	        	System.out.println("How much are you willing" + 
