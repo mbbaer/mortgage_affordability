@@ -2,14 +2,12 @@ income, 15000
 rent, 500
 gas, 200
 haircut, 20
-grocery, 400
+grocery, 500
 shopping, 300
-dogfood, 60
 dates, 500
-dogtreats, 20
+dog treats, 20
 vacation, 150
 housekeeping, 100
-insurance, 50
-steaks, 20
 books, 50
-petsupplies, 30
+pet supplies, 30
+computer supplies, 100
